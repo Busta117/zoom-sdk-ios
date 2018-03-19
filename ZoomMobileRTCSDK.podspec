@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 
   s.source = {
     :git => 'https://github.com/zoom/zoom-sdk-ios.git',
-    :tag => 'v' + s.version
+    :tag => "v#{s.version}"
   }
 
   s.platform = :ios
