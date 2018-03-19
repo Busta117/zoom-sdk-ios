@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://developer.zoom.us/docs/ios/'
   s.libraries = ['sqlite3', 'stdc++.6.0.9', 'z.1.2.5']
   s.license = { :text => '', :type => 'Commercial' }
-  s.name = 'ZoomMobileRTCSDK'
+  s.name = 'ZoomMobileRTC'
   s.summary = 'ZOOM iOS SDK'
   s.version = '4.1.20273.0206'
 
